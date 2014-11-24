@@ -1,0 +1,5 @@
+F:\projects\ConsoleSimpleFactory\ConsoleSimpleFactory\bin\Debug\ConsoleSimpleFactory.exe
+F:\projects\ConsoleSimpleFactory\ConsoleSimpleFactory\bin\Debug\ConsoleSimpleFactory.pdb
+F:\projects\ConsoleSimpleFactory\ConsoleSimpleFactory\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\projects\ConsoleSimpleFactory\ConsoleSimpleFactory\obj\x86\Debug\ConsoleSimpleFactory.exe
+F:\projects\ConsoleSimpleFactory\ConsoleSimpleFactory\obj\x86\Debug\ConsoleSimpleFactory.pdb
